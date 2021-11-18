@@ -1,13 +1,14 @@
 {
-  "name": "static-site",
+  "name": "readme-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "a node application that creates a readme when a user inputs criteria",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Runa Ariga",
   "license": "ISC",
+  "homepage": "https://runaariga.github.io/readmehw/",
   "dependencies": {
     "inquirer": "^6.3.1"
   }
